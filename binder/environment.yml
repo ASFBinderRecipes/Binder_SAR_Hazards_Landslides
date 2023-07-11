@@ -1,0 +1,9 @@
+name: notebook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.6,<3.9
+  - mintpy
+  - numpy<1.24.0
+  - awscli
