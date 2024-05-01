@@ -3,6 +3,8 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - mintpy
-  - numpy<1.24.0
-  - awscli
+  - python>=3.11                                                                                                                                                                                                                                                                                                                                                                                                                     
+  - mintpy                                                                                                                                                                                                                                                                                                                                                                                                                           
+  - numpy<1.24.0                                                                                                                                                                                                                                                                                                                                                                                                                     
+  - awscli                                                                                                                                                                                                                                                                                                                                                                                                                           
+  - pysolid>=0.3.2
