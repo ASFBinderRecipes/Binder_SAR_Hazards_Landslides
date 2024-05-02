@@ -1,6 +1,6 @@
 name: notebook
 channels:
-  - defaults
+  - conda-forge
 dependencies:
   - python=3.10                                                                                                                                                                                                                                                                                                                                                                                                                      
   - mintpy                                                                                                                                                                                                                                                                                                                                                                                                                           
