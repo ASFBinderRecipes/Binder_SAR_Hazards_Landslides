@@ -331,7 +331,7 @@ dependencies:
   - python_abi=3.10=4_cp310
   - pytz=2023.3.post1=pyhd8ed1ab_0
   - pywavelets=1.4.1=py310h1f7b6fc_1
-  - pyyaml=6.0.1=py310h2372a71_1
+  - pyyaml=5.3.1
   - pyzmq=24.0.1=py310h330234f_1
   - rav1e=0.6.6=he8a937b_2
   - rdma-core=51.0=hd3aeb46_0
