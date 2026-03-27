@@ -1,6 +1,7 @@
+name: hazards_landslides_environments
 channels:
   - conda-forge
-dependencies:                                                                                                                                                                                                                                                                                                                                                                                                                
-  - mintpy                                                                                                                                                                                                                                                                                                                                                                                                                           
-  - numpy<1.24.0                                                                                                                                                                                                                                                                                                                                                                                                                     
-  - boto3                                                                                                                                                                                                                                                                                                                                                                                                                          
+dependencies:
+  - mintpy
+  - numpy<1.24.0
+  - boto3
